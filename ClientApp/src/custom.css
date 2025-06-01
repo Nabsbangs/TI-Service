@@ -4,15 +4,11 @@ a {
 }
 
 code {
-    color: #E01A76;
-    -moz-columns: inherit;
-    -ms-columns: inherit;
-    -webkit-columns: inherit;
-    columns: inherit;
+  color: #E01A76;
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;   
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
 }

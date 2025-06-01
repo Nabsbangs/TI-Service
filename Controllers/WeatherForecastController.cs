@@ -24,7 +24,7 @@ namespace SPAProject.Controllers
             if (OperatingSystem.IsLinux())
             {
                 return new List<WeatherForecast>();
-            }            
+            }
 
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
